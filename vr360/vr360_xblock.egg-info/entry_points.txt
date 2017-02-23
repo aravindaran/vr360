@@ -1,0 +1,3 @@
+[xblock.v1]
+vr360 = vr360:Vr360XBlock
+

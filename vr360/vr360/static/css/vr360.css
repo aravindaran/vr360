@@ -1,0 +1,9 @@
+/* CSS for Vr360XBlock */
+
+.vr360_block .count {
+    font-weight: bold;
+}
+
+.vr360_block p {
+    cursor: pointer;
+}
